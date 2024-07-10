@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(25, 189, 189);
+    padding: 30px;
+    margin: 30px;
+}
+
+.main{
+    border: 3px solid black;
+    padding: 30px;
+    margin: 50px 400px;
+    background-color: rgb(188, 225, 225);
+}
+
+.first{
+    background-color: rgb(25, 189, 189);
+}
+
+.btn{
+    background-color: green;
+    color: white;
+    padding: 5px;
+    width: 90%;
+    display: block;
+    margin: 0px auto;
+}
+
+input[type="text"],input[type="email"]{
+    width: 90%;
+    display: block;
+    padding: 5px;
+    margin: 5px 20px;
+}
+
+input[type="checkbox"]{
+   margin:5px;
+   margin-left: 19px;
+}
+
+form .one{
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+form .two{
+    background-color: rgb(24, 192, 192);
+    padding: 20px 10px;
+}
+
+p{
+    text-align: justify;
+}
+
+h1,p{
+    padding:2px 20px;
+}
+
+h1{
+    padding-top:30px;
+}
